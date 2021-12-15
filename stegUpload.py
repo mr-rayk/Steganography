@@ -27,7 +27,7 @@ print(image_decode)
 print("\nMessage succesfully injected")
 
 #deklarasi API Key Imgur dan file PNG yang sudah diinject dengan message
-CLIENT_ID = "b45c870e62660f0"
+CLIENT_ID = "APIKEY"
 PATH = "bananaSTEG.png"
 
 #upload file PNG ke Imgur
